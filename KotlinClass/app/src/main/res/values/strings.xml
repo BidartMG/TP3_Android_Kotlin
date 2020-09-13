@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Class</string>
+    <string name="botonInicio">SHOW</string>
+    <string name="textoInicio">Buenos días su señoría...</string>
+</resources>
