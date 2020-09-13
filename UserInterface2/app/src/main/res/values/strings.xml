@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User Interface 2</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="hint_edt">Ingrese el texto</string>
+</resources>
